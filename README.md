@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo Murilo Almeida
 - 👀 Estou interessado em aprender mais sobre programação
-- 🌱 Atualmente estou começando a aprender python e javascript
+- 🌱 Atualmente estou começando a aprender e javascript
 - 📫 Email para contato: muriloalmeida8421@gmail.com
 - 😄 Ele dele
 - ⚡ Jogo jogos online e pratico esportes
